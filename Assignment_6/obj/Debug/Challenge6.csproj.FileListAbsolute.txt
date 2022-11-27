@@ -1,0 +1,118 @@
+D:\C# programs\Challenge6\bin\Challenge6.dll.config
+D:\C# programs\Challenge6\bin\Challenge6.dll
+D:\C# programs\Challenge6\bin\Challenge6.pdb
+D:\C# programs\Challenge6\bin\roslyn\csc.exe
+D:\C# programs\Challenge6\bin\roslyn\csc.exe.config
+D:\C# programs\Challenge6\bin\roslyn\csc.rsp
+D:\C# programs\Challenge6\bin\roslyn\csi.exe
+D:\C# programs\Challenge6\bin\roslyn\csi.exe.config
+D:\C# programs\Challenge6\bin\roslyn\csi.rsp
+D:\C# programs\Challenge6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C# programs\Challenge6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# programs\Challenge6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C# programs\Challenge6\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C# programs\Challenge6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C# programs\Challenge6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C# programs\Challenge6\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C# programs\Challenge6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C# programs\Challenge6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C# programs\Challenge6\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C# programs\Challenge6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C# programs\Challenge6\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C# programs\Challenge6\bin\roslyn\System.AppContext.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Collections.Immutable.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Console.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Globalization.Calendars.dll
+D:\C# programs\Challenge6\bin\roslyn\System.IO.Compression.dll
+D:\C# programs\Challenge6\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\C# programs\Challenge6\bin\roslyn\System.IO.FileSystem.dll
+D:\C# programs\Challenge6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Net.Http.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Net.Sockets.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Reflection.Metadata.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\C# programs\Challenge6\bin\roslyn\System.ValueTuple.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Xml.XPath.dll
+D:\C# programs\Challenge6\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C# programs\Challenge6\bin\roslyn\vbc.exe
+D:\C# programs\Challenge6\bin\roslyn\vbc.exe.config
+D:\C# programs\Challenge6\bin\roslyn\vbc.rsp
+D:\C# programs\Challenge6\bin\roslyn\VBCSCompiler.exe
+D:\C# programs\Challenge6\bin\roslyn\VBCSCompiler.exe.config
+D:\C# programs\Challenge6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C# programs\Challenge6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C# programs\Challenge6\obj\Debug\Challenge6.csproj.AssemblyReference.cache
+D:\C# programs\Challenge6\obj\Debug\Challenge6.csproj.CoreCompileInputs.cache
+D:\C# programs\Challenge6\obj\Debug\Challenge6.csproj.CopyComplete
+D:\C# programs\Challenge6\obj\Debug\Challenge6.dll
+D:\C# programs\Challenge6\obj\Debug\Challenge6.pdb
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\Challenge6.dll.config
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\Challenge6.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\Challenge6.pdb
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\csc.exe
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\csc.exe.config
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\csc.rsp
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\csi.exe
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\csi.exe.config
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\csi.rsp
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.AppContext.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Console.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Net.Http.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\vbc.exe
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\vbc.exe.config
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\vbc.rsp
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\obj\Debug\Challenge6.csproj.AssemblyReference.cache
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\obj\Debug\Challenge6.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\obj\Debug\Challenge6.csproj.CopyComplete
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\obj\Debug\Challenge6.dll
+C:\Users\jyoth\Downloads\Challenge6-main\Challenge6-main\obj\Debug\Challenge6.pdb
